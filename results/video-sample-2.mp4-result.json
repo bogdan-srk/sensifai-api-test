@@ -10,7 +10,7 @@
       "endSecond": 6.973633333333334,
       "startFrame": 0.0,
       "endFrame": 209.0,
-      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-912ea035-fe9b-4fa2-ba67-9e249916b598_209.jpg",
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-66094257-0751-4bb5-8bbf-895e49559063_209.jpg",
       "taggingResult": [
         {
           "label": "Snow",
@@ -71,7 +71,7 @@
       "endSecond": 8.8088,
       "startFrame": 209.0,
       "endFrame": 264.0,
-      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-912ea035-fe9b-4fa2-ba67-9e249916b598_264.jpg",
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-66094257-0751-4bb5-8bbf-895e49559063_264.jpg",
       "taggingResult": [
         {
           "label": "Rural area",
@@ -128,7 +128,7 @@
       "endSecond": 11.011000000000001,
       "startFrame": 264.0,
       "endFrame": 330.0,
-      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-912ea035-fe9b-4fa2-ba67-9e249916b598_330.jpg",
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-66094257-0751-4bb5-8bbf-895e49559063_330.jpg",
       "taggingResult": [
         {
           "label": "Grass",
@@ -189,7 +189,7 @@
       "endSecond": 17.250566666666668,
       "startFrame": 330.0,
       "endFrame": 517.0,
-      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-912ea035-fe9b-4fa2-ba67-9e249916b598_517.jpg",
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-66094257-0751-4bb5-8bbf-895e49559063_517.jpg",
       "taggingResult": [
         {
           "label": "Vehicle",
@@ -250,7 +250,7 @@
       "endSecond": 23.1231,
       "startFrame": 517.0,
       "endFrame": 693.0,
-      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-912ea035-fe9b-4fa2-ba67-9e249916b598_693.jpg",
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-66094257-0751-4bb5-8bbf-895e49559063_693.jpg",
       "taggingResult": [
         {
           "label": "City",
@@ -311,7 +311,7 @@
       "endSecond": 25.692333333333334,
       "startFrame": 693.0,
       "endFrame": 770.0,
-      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-912ea035-fe9b-4fa2-ba67-9e249916b598_770.jpg",
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-66094257-0751-4bb5-8bbf-895e49559063_770.jpg",
       "taggingResult": [
         {
           "label": "Sports",
@@ -372,7 +372,7 @@
       "endSecond": 29.362666666666666,
       "startFrame": 770.0,
       "endFrame": 880.0,
-      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-912ea035-fe9b-4fa2-ba67-9e249916b598_858.jpg",
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-66094257-0751-4bb5-8bbf-895e49559063_858.jpg",
       "taggingResult": [
         {
           "label": "Sports",

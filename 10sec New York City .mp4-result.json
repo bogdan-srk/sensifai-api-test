@@ -1,0 +1,3690 @@
+{
+  "fps": 29.97002997002997,
+  "duration": 103.03626666666666,
+  "isDone": true,
+  "framesCount": 3088,
+  "errors": [],
+  "videoResults": [
+    {
+      "startSecond": 0.0,
+      "endSecond": 1.8351666666666666,
+      "startFrame": 0.0,
+      "endFrame": 55.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_55.jpg",
+      "taggingResult": [
+        {
+          "label": "Skyline",
+          "probability": 100.0
+        },
+        {
+          "label": "Cityscape",
+          "probability": 80.0
+        },
+        {
+          "label": "Skyscraper",
+          "probability": 50.0
+        },
+        {
+          "label": "City",
+          "probability": 49.0
+        },
+        {
+          "label": "Evening",
+          "probability": 32.0
+        },
+        {
+          "label": "Metropolis",
+          "probability": 25.0
+        },
+        {
+          "label": "Screenshot",
+          "probability": 21.0
+        },
+        {
+          "label": "Aerial photography",
+          "probability": 19.0
+        },
+        {
+          "label": "Night",
+          "probability": 18.0
+        },
+        {
+          "label": "Dusk",
+          "probability": 5.0
+        },
+        {
+          "label": "Horizon",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 1.8351666666666666,
+      "endSecond": 3.3033,
+      "startFrame": 55.0,
+      "endFrame": 99.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_99.jpg",
+      "taggingResult": [
+        {
+          "label": "Performance",
+          "probability": 100.0
+        },
+        {
+          "label": "Rock concert",
+          "probability": 86.0
+        },
+        {
+          "label": "Crowd",
+          "probability": 68.0
+        },
+        {
+          "label": "Stage",
+          "probability": 67.0
+        },
+        {
+          "label": "Concert",
+          "probability": 61.0
+        },
+        {
+          "label": "Nightclub",
+          "probability": 40.0
+        },
+        {
+          "label": "Audience",
+          "probability": 18.0
+        },
+        {
+          "label": "Music",
+          "probability": 15.0
+        },
+        {
+          "label": "Performing arts",
+          "probability": 12.0
+        },
+        {
+          "label": "Entertainment",
+          "probability": 3.0
+        },
+        {
+          "label": "Event",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 3.3033,
+      "endSecond": 4.771433333333333,
+      "startFrame": 99.0,
+      "endFrame": 143.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_143.jpg",
+      "taggingResult": [
+        {
+          "label": "Advertising",
+          "probability": 100.0
+        },
+        {
+          "label": "Vehicle",
+          "probability": 22.0
+        },
+        {
+          "label": "Car",
+          "probability": 20.0
+        },
+        {
+          "label": "Poster",
+          "probability": 18.0
+        },
+        {
+          "label": "Brand",
+          "probability": 15.0
+        },
+        {
+          "label": "Signage",
+          "probability": 13.0
+        },
+        {
+          "label": "Banner",
+          "probability": 12.0
+        },
+        {
+          "label": "Display device",
+          "probability": 5.0
+        },
+        {
+          "label": "Sign",
+          "probability": 1.0
+        },
+        {
+          "label": "Font",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 4.771433333333333,
+      "endSecond": 5.872533333333333,
+      "startFrame": 143.0,
+      "endFrame": 176.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_176.jpg",
+      "taggingResult": [
+        {
+          "label": "Road",
+          "probability": 100.0
+        },
+        {
+          "label": "Street",
+          "probability": 92.0
+        },
+        {
+          "label": "Tree",
+          "probability": 74.0
+        },
+        {
+          "label": "Neighbourhood",
+          "probability": 67.0
+        },
+        {
+          "label": "City",
+          "probability": 51.0
+        },
+        {
+          "label": "Infrastructure",
+          "probability": 38.0
+        },
+        {
+          "label": "Autumn",
+          "probability": 33.0
+        },
+        {
+          "label": "Lane",
+          "probability": 32.0
+        },
+        {
+          "label": "Urban area",
+          "probability": 31.0
+        },
+        {
+          "label": "Pedestrian",
+          "probability": 30.0
+        },
+        {
+          "label": "Town",
+          "probability": 30.0
+        },
+        {
+          "label": "Spring",
+          "probability": 19.0
+        },
+        {
+          "label": "Person",
+          "probability": 3.0
+        },
+        {
+          "label": "Clothing",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 5.872533333333333,
+      "endSecond": 6.6066,
+      "startFrame": 176.0,
+      "endFrame": 198.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_198.jpg",
+      "taggingResult": [
+        {
+          "label": "Food",
+          "probability": 100.0
+        },
+        {
+          "label": "Dessert",
+          "probability": 89.0
+        },
+        {
+          "label": "Produce",
+          "probability": 56.00000000000001
+        },
+        {
+          "label": "Pink",
+          "probability": 28.999999999999996
+        },
+        {
+          "label": "Dish",
+          "probability": 27.0
+        },
+        {
+          "label": "Icing",
+          "probability": 25.0
+        },
+        {
+          "label": "Fruit",
+          "probability": 19.0
+        },
+        {
+          "label": "Sweetness",
+          "probability": 19.0
+        },
+        {
+          "label": "Plant",
+          "probability": 15.0
+        },
+        {
+          "label": "Breakfast",
+          "probability": 14.000000000000002
+        },
+        {
+          "label": "Red",
+          "probability": 6.0
+        },
+        {
+          "label": "Cake",
+          "probability": 5.0
+        },
+        {
+          "label": "Organ",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 6.6066,
+      "endSecond": 7.7077,
+      "startFrame": 198.0,
+      "endFrame": 231.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_231.jpg",
+      "taggingResult": [
+        {
+          "label": "Signage",
+          "probability": 100.0
+        },
+        {
+          "label": "Advertising",
+          "probability": 98.0
+        },
+        {
+          "label": "Sign",
+          "probability": 83.0
+        },
+        {
+          "label": "Street sign",
+          "probability": 24.0
+        },
+        {
+          "label": "Banner",
+          "probability": 16.0
+        },
+        {
+          "label": "Facade",
+          "probability": 3.0
+        },
+        {
+          "label": "Restaurant",
+          "probability": 3.0
+        },
+        {
+          "label": "Traffic sign",
+          "probability": 3.0
+        },
+        {
+          "label": "Display device",
+          "probability": 1.0
+        },
+        {
+          "label": "Billboard",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 7.7077,
+      "endSecond": 9.9099,
+      "startFrame": 231.0,
+      "endFrame": 297.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_297.jpg",
+      "taggingResult": [
+        {
+          "label": "Vehicle",
+          "probability": 100.0
+        },
+        {
+          "label": "Ship",
+          "probability": 81.0
+        },
+        {
+          "label": "Watercraft",
+          "probability": 59.0
+        },
+        {
+          "label": "Sea",
+          "probability": 38.0
+        },
+        {
+          "label": "Freight transport",
+          "probability": 35.0
+        },
+        {
+          "label": "Channel",
+          "probability": 26.0
+        },
+        {
+          "label": "Ferry",
+          "probability": 21.0
+        },
+        {
+          "label": "Boat",
+          "probability": 11.0
+        },
+        {
+          "label": "Transport",
+          "probability": 4.0
+        },
+        {
+          "label": "Cargo ship",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 9.9099,
+      "endSecond": 11.011000000000001,
+      "startFrame": 297.0,
+      "endFrame": 330.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_330.jpg",
+      "taggingResult": [
+        {
+          "label": "Transport",
+          "probability": 100.0
+        },
+        {
+          "label": "Vehicle",
+          "probability": 88.0
+        },
+        {
+          "label": "Public transport",
+          "probability": 84.0
+        },
+        {
+          "label": "Train",
+          "probability": 69.0
+        },
+        {
+          "label": "Land vehicle",
+          "probability": 44.0
+        },
+        {
+          "label": "Rolling stock",
+          "probability": 41.0
+        },
+        {
+          "label": "Passenger",
+          "probability": 9.0
+        },
+        {
+          "label": "Railway",
+          "probability": 6.0
+        },
+        {
+          "label": "Railroad car",
+          "probability": 2.0
+        },
+        {
+          "label": "Locomotive",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 11.011000000000001,
+      "endSecond": 13.2132,
+      "startFrame": 330.0,
+      "endFrame": 396.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_396.jpg",
+      "taggingResult": [
+        {
+          "label": "Crowd",
+          "probability": 100.0
+        },
+        {
+          "label": "Protest",
+          "probability": 76.0
+        },
+        {
+          "label": "Demonstration",
+          "probability": 64.0
+        },
+        {
+          "label": "People",
+          "probability": 62.0
+        },
+        {
+          "label": "Education",
+          "probability": 38.0
+        },
+        {
+          "label": "Audience",
+          "probability": 31.0
+        },
+        {
+          "label": "Youth",
+          "probability": 15.0
+        },
+        {
+          "label": "Person",
+          "probability": 10.0
+        },
+        {
+          "label": "Face",
+          "probability": 5.0
+        },
+        {
+          "label": "Clothing",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 13.2132,
+      "endSecond": 16.5165,
+      "startFrame": 396.0,
+      "endFrame": 495.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_495.jpg",
+      "taggingResult": [
+        {
+          "label": "Food",
+          "probability": 100.0
+        },
+        {
+          "label": "Dish",
+          "probability": 93.0
+        },
+        {
+          "label": "Cuisine",
+          "probability": 70.0
+        },
+        {
+          "label": "Produce",
+          "probability": 56.99999999999999
+        },
+        {
+          "label": "Meal",
+          "probability": 47.0
+        },
+        {
+          "label": "Breakfast",
+          "probability": 18.0
+        },
+        {
+          "label": "Vegetable",
+          "probability": 9.0
+        },
+        {
+          "label": "Lunch",
+          "probability": 9.0
+        },
+        {
+          "label": "Dessert",
+          "probability": 3.0
+        },
+        {
+          "label": "Vegetarian food",
+          "probability": 1.0
+        },
+        {
+          "label": "Meat",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 16.5165,
+      "endSecond": 17.6176,
+      "startFrame": 495.0,
+      "endFrame": 528.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_528.jpg",
+      "taggingResult": [
+        {
+          "label": "Audience",
+          "probability": 100.0
+        },
+        {
+          "label": "Crowd",
+          "probability": 86.0
+        },
+        {
+          "label": "People",
+          "probability": 84.0
+        },
+        {
+          "label": "Person",
+          "probability": 34.0
+        },
+        {
+          "label": "Youth",
+          "probability": 16.0
+        },
+        {
+          "label": "Sports",
+          "probability": 14.000000000000002
+        },
+        {
+          "label": "Face",
+          "probability": 9.0
+        },
+        {
+          "label": "Man",
+          "probability": 6.0
+        },
+        {
+          "label": "Clothing",
+          "probability": 5.0
+        },
+        {
+          "label": "Woman",
+          "probability": 3.0
+        },
+        {
+          "label": "Musician",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 17.6176,
+      "endSecond": 19.452766666666665,
+      "startFrame": 528.0,
+      "endFrame": 583.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_583.jpg",
+      "taggingResult": [
+        {
+          "label": "Sports",
+          "probability": 100.0
+        },
+        {
+          "label": "Player",
+          "probability": 69.0
+        },
+        {
+          "label": "Athlete",
+          "probability": 69.0
+        },
+        {
+          "label": "Basketball player",
+          "probability": 65.0
+        },
+        {
+          "label": "Basketball moves",
+          "probability": 65.0
+        },
+        {
+          "label": "Basketball",
+          "probability": 61.0
+        },
+        {
+          "label": "Ball game",
+          "probability": 51.0
+        },
+        {
+          "label": "Football player",
+          "probability": 40.0
+        },
+        {
+          "label": "Team sport",
+          "probability": 24.0
+        },
+        {
+          "label": "Person",
+          "probability": 6.0
+        },
+        {
+          "label": "Competition event",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 19.452766666666665,
+      "endSecond": 22.022000000000002,
+      "startFrame": 583.0,
+      "endFrame": 660.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_660.jpg",
+      "taggingResult": [
+        {
+          "label": "Downtown",
+          "probability": 100.0
+        },
+        {
+          "label": "Plaza",
+          "probability": 98.0
+        },
+        {
+          "label": "Neighbourhood",
+          "probability": 86.0
+        },
+        {
+          "label": "Building",
+          "probability": 86.0
+        },
+        {
+          "label": "Facade",
+          "probability": 71.0
+        },
+        {
+          "label": "Town",
+          "probability": 52.0
+        },
+        {
+          "label": "City",
+          "probability": 47.0
+        },
+        {
+          "label": "Architecture",
+          "probability": 35.0
+        },
+        {
+          "label": "Property",
+          "probability": 3.0
+        },
+        {
+          "label": "Town square",
+          "probability": 1.0
+        },
+        {
+          "label": "Residential area",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 22.022000000000002,
+      "endSecond": 25.692333333333334,
+      "startFrame": 660.0,
+      "endFrame": 770.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_770.jpg",
+      "taggingResult": [
+        {
+          "label": "Tree",
+          "probability": 100.0
+        },
+        {
+          "label": "Street",
+          "probability": 71.0
+        },
+        {
+          "label": "Road",
+          "probability": 66.0
+        },
+        {
+          "label": "City",
+          "probability": 51.0
+        },
+        {
+          "label": "Town",
+          "probability": 49.0
+        },
+        {
+          "label": "Neighbourhood",
+          "probability": 48.0
+        },
+        {
+          "label": "Urban area",
+          "probability": 37.0
+        },
+        {
+          "label": "Autumn",
+          "probability": 31.0
+        },
+        {
+          "label": "Evening",
+          "probability": 12.0
+        },
+        {
+          "label": "Flower",
+          "probability": 8.0
+        },
+        {
+          "label": "Downtown",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 25.692333333333334,
+      "endSecond": 27.160466666666668,
+      "startFrame": 770.0,
+      "endFrame": 814.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_814.jpg",
+      "taggingResult": [
+        {
+          "label": "Car",
+          "probability": 100.0
+        },
+        {
+          "label": "Vehicle",
+          "probability": 97.0
+        },
+        {
+          "label": "Land vehicle",
+          "probability": 67.0
+        },
+        {
+          "label": "Automotive exterior",
+          "probability": 20.0
+        },
+        {
+          "label": "Motor vehicle",
+          "probability": 14.000000000000002
+        },
+        {
+          "label": "City car",
+          "probability": 11.0
+        },
+        {
+          "label": "Wheel",
+          "probability": 8.0
+        },
+        {
+          "label": "Compact car",
+          "probability": 4.0
+        },
+        {
+          "label": "Sedan",
+          "probability": 2.0
+        },
+        {
+          "label": "Sport utility vehicle",
+          "probability": 1.0
+        },
+        {
+          "label": "Luxury vehicle",
+          "probability": 0.0
+        },
+        {
+          "label": "Family car",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 27.160466666666668,
+      "endSecond": 29.362666666666666,
+      "startFrame": 814.0,
+      "endFrame": 880.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_880.jpg",
+      "taggingResult": [
+        {
+          "label": "Crowd",
+          "probability": 100.0
+        },
+        {
+          "label": "Pedestrian",
+          "probability": 96.0
+        },
+        {
+          "label": "Road",
+          "probability": 94.0
+        },
+        {
+          "label": "Race track",
+          "probability": 70.0
+        },
+        {
+          "label": "Car",
+          "probability": 64.0
+        },
+        {
+          "label": "Vehicle",
+          "probability": 56.00000000000001
+        },
+        {
+          "label": "City",
+          "probability": 52.0
+        },
+        {
+          "label": "Downtown",
+          "probability": 47.0
+        },
+        {
+          "label": "Street",
+          "probability": 38.0
+        },
+        {
+          "label": "Infrastructure",
+          "probability": 19.0
+        },
+        {
+          "label": "Lane",
+          "probability": 2.0
+        },
+        {
+          "label": "Race",
+          "probability": 2.0
+        },
+        {
+          "label": "Traffic",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 29.362666666666666,
+      "endSecond": 33.40003333333333,
+      "startFrame": 880.0,
+      "endFrame": 1001.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1001.jpg",
+      "taggingResult": [
+        {
+          "label": "Arm",
+          "probability": 100.0
+        },
+        {
+          "label": "Person",
+          "probability": 90.0
+        },
+        {
+          "label": "Limb",
+          "probability": 63.0
+        },
+        {
+          "label": "Hand",
+          "probability": 60.0
+        },
+        {
+          "label": "Hair",
+          "probability": 53.0
+        },
+        {
+          "label": "Lady",
+          "probability": 43.0
+        },
+        {
+          "label": "Leg",
+          "probability": 34.0
+        },
+        {
+          "label": "Clothing",
+          "probability": 28.999999999999996
+        },
+        {
+          "label": "Fashion",
+          "probability": 28.000000000000004
+        },
+        {
+          "label": "Woman",
+          "probability": 17.0
+        },
+        {
+          "label": "Face",
+          "probability": 13.0
+        },
+        {
+          "label": "Singing",
+          "probability": 10.0
+        },
+        {
+          "label": "Girl",
+          "probability": 0.0
+        },
+        {
+          "label": "Man",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 33.40003333333333,
+      "endSecond": 36.3363,
+      "startFrame": 1001.0,
+      "endFrame": 1089.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1089.jpg",
+      "taggingResult": [
+        {
+          "label": "Vehicle",
+          "probability": 100.0
+        },
+        {
+          "label": "Car",
+          "probability": 93.0
+        },
+        {
+          "label": "Person",
+          "probability": 87.0
+        },
+        {
+          "label": "Driving",
+          "probability": 36.0
+        },
+        {
+          "label": "Man",
+          "probability": 28.000000000000004
+        },
+        {
+          "label": "Land vehicle",
+          "probability": 21.0
+        },
+        {
+          "label": "Clothing",
+          "probability": 16.0
+        },
+        {
+          "label": "Facial hair",
+          "probability": 11.0
+        },
+        {
+          "label": "Glasses",
+          "probability": 6.0
+        },
+        {
+          "label": "Meal",
+          "probability": 4.0
+        },
+        {
+          "label": "Bar",
+          "probability": 0.0
+        },
+        {
+          "label": "Drink",
+          "probability": 0.0
+        },
+        {
+          "label": "Face",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 36.3363,
+      "endSecond": 37.437400000000004,
+      "startFrame": 1089.0,
+      "endFrame": 1122.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1122.jpg",
+      "taggingResult": [
+        {
+          "label": "People",
+          "probability": 100.0
+        },
+        {
+          "label": "Person",
+          "probability": 92.0
+        },
+        {
+          "label": "Child",
+          "probability": 82.0
+        },
+        {
+          "label": "Male",
+          "probability": 31.0
+        },
+        {
+          "label": "Man",
+          "probability": 26.0
+        },
+        {
+          "label": "Boy",
+          "probability": 13.0
+        },
+        {
+          "label": "Clothing",
+          "probability": 13.0
+        },
+        {
+          "label": "Baby",
+          "probability": 8.0
+        },
+        {
+          "label": "Toddler",
+          "probability": 7.000000000000001
+        },
+        {
+          "label": "Portrait",
+          "probability": 4.0
+        },
+        {
+          "label": "Face",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 37.437400000000004,
+      "endSecond": 38.90553333333333,
+      "startFrame": 1122.0,
+      "endFrame": 1166.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1166.jpg",
+      "taggingResult": [
+        {
+          "label": "Vehicle",
+          "probability": 100.0
+        },
+        {
+          "label": "Car",
+          "probability": 56.00000000000001
+        },
+        {
+          "label": "Transport",
+          "probability": 50.0
+        },
+        {
+          "label": "Automotive exterior",
+          "probability": 27.0
+        },
+        {
+          "label": "Person",
+          "probability": 23.0
+        },
+        {
+          "label": "Public transport",
+          "probability": 16.0
+        },
+        {
+          "label": "Bus",
+          "probability": 15.0
+        },
+        {
+          "label": "Land vehicle",
+          "probability": 13.0
+        },
+        {
+          "label": "Driving",
+          "probability": 13.0
+        },
+        {
+          "label": "Window",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 38.90553333333333,
+      "endSecond": 40.00663333333333,
+      "startFrame": 1166.0,
+      "endFrame": 1199.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1199.jpg",
+      "taggingResult": [
+        {
+          "label": "Street",
+          "probability": 100.0
+        },
+        {
+          "label": "Road",
+          "probability": 91.0
+        },
+        {
+          "label": "Crowd",
+          "probability": 83.0
+        },
+        {
+          "label": "Clothing",
+          "probability": 73.0
+        },
+        {
+          "label": "Pedestrian",
+          "probability": 46.0
+        },
+        {
+          "label": "Infrastructure",
+          "probability": 28.999999999999996
+        },
+        {
+          "label": "Person",
+          "probability": 13.0
+        },
+        {
+          "label": "Footwear",
+          "probability": 12.0
+        },
+        {
+          "label": "People",
+          "probability": 12.0
+        },
+        {
+          "label": "Fashion",
+          "probability": 8.0
+        },
+        {
+          "label": "Woman",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 40.00663333333333,
+      "endSecond": 40.740700000000004,
+      "startFrame": 1199.0,
+      "endFrame": 1221.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1221.jpg",
+      "taggingResult": [
+        {
+          "label": "Person",
+          "probability": 100.0
+        },
+        {
+          "label": "Glasses",
+          "probability": 63.0
+        },
+        {
+          "label": "Darkness",
+          "probability": 36.0
+        },
+        {
+          "label": "Screenshot",
+          "probability": 36.0
+        },
+        {
+          "label": "Photograph",
+          "probability": 30.0
+        },
+        {
+          "label": "Interaction",
+          "probability": 28.999999999999996
+        },
+        {
+          "label": "Face",
+          "probability": 23.0
+        },
+        {
+          "label": "People",
+          "probability": 20.0
+        },
+        {
+          "label": "Clothing",
+          "probability": 15.0
+        },
+        {
+          "label": "Woman",
+          "probability": 15.0
+        },
+        {
+          "label": "Singing",
+          "probability": 14.000000000000002
+        },
+        {
+          "label": "Hair",
+          "probability": 12.0
+        },
+        {
+          "label": "Man",
+          "probability": 9.0
+        },
+        {
+          "label": "Musician",
+          "probability": 6.0
+        },
+        {
+          "label": "Black",
+          "probability": 5.0
+        },
+        {
+          "label": "Music",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 40.740700000000004,
+      "endSecond": 42.57586666666667,
+      "startFrame": 1221.0,
+      "endFrame": 1276.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1276.jpg",
+      "taggingResult": [
+        {
+          "label": "Street",
+          "probability": 100.0
+        },
+        {
+          "label": "Pedestrian",
+          "probability": 96.0
+        },
+        {
+          "label": "Road",
+          "probability": 92.0
+        },
+        {
+          "label": "Infrastructure",
+          "probability": 49.0
+        },
+        {
+          "label": "Clothing",
+          "probability": 18.0
+        },
+        {
+          "label": "Crowd",
+          "probability": 16.0
+        },
+        {
+          "label": "Person",
+          "probability": 10.0
+        },
+        {
+          "label": "City",
+          "probability": 10.0
+        },
+        {
+          "label": "Vehicle",
+          "probability": 8.0
+        },
+        {
+          "label": "Footwear",
+          "probability": 4.0
+        },
+        {
+          "label": "Man",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 42.57586666666667,
+      "endSecond": 44.77806666666667,
+      "startFrame": 1276.0,
+      "endFrame": 1342.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1342.jpg",
+      "taggingResult": [
+        {
+          "label": "Street",
+          "probability": 100.0
+        },
+        {
+          "label": "Road",
+          "probability": 92.0
+        },
+        {
+          "label": "Urban area",
+          "probability": 73.0
+        },
+        {
+          "label": "City",
+          "probability": 59.0
+        },
+        {
+          "label": "Pedestrian",
+          "probability": 55.00000000000001
+        },
+        {
+          "label": "Neighbourhood",
+          "probability": 54.0
+        },
+        {
+          "label": "Downtown",
+          "probability": 38.0
+        },
+        {
+          "label": "Infrastructure",
+          "probability": 32.0
+        },
+        {
+          "label": "Town",
+          "probability": 12.0
+        },
+        {
+          "label": "Architecture",
+          "probability": 10.0
+        },
+        {
+          "label": "Tourism",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 44.77806666666667,
+      "endSecond": 47.714333333333336,
+      "startFrame": 1342.0,
+      "endFrame": 1430.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1430.jpg",
+      "taggingResult": [
+        {
+          "label": "Skyline",
+          "probability": 100.0
+        },
+        {
+          "label": "Cityscape",
+          "probability": 84.0
+        },
+        {
+          "label": "City",
+          "probability": 71.0
+        },
+        {
+          "label": "Skyscraper",
+          "probability": 56.00000000000001
+        },
+        {
+          "label": "Metropolitan area",
+          "probability": 51.0
+        },
+        {
+          "label": "Metropolis",
+          "probability": 47.0
+        },
+        {
+          "label": "Evening",
+          "probability": 44.0
+        },
+        {
+          "label": "Dusk",
+          "probability": 42.0
+        },
+        {
+          "label": "Night",
+          "probability": 24.0
+        },
+        {
+          "label": "Horizon",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 47.714333333333336,
+      "endSecond": 48.81543333333333,
+      "startFrame": 1430.0,
+      "endFrame": 1463.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1463.jpg",
+      "taggingResult": [
+        {
+          "label": "Amusement park",
+          "probability": 100.0
+        },
+        {
+          "label": "Park",
+          "probability": 80.0
+        },
+        {
+          "label": "Amusement ride",
+          "probability": 76.0
+        },
+        {
+          "label": "Bridge",
+          "probability": 56.99999999999999
+        },
+        {
+          "label": "Landmark",
+          "probability": 39.0
+        },
+        {
+          "label": "Outdoor recreation",
+          "probability": 37.0
+        },
+        {
+          "label": "Recreation",
+          "probability": 26.0
+        },
+        {
+          "label": "Ferris wheel",
+          "probability": 13.0
+        },
+        {
+          "label": "Night",
+          "probability": 7.000000000000001
+        },
+        {
+          "label": "Evening",
+          "probability": 6.0
+        },
+        {
+          "label": "Roller coaster",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 48.81543333333333,
+      "endSecond": 49.916533333333334,
+      "startFrame": 1463.0,
+      "endFrame": 1496.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1496.jpg",
+      "taggingResult": [
+        {
+          "label": "Flower",
+          "probability": 100.0
+        },
+        {
+          "label": "Spring",
+          "probability": 87.0
+        },
+        {
+          "label": "Tree",
+          "probability": 87.0
+        },
+        {
+          "label": "Plant",
+          "probability": 79.0
+        },
+        {
+          "label": "Blossom",
+          "probability": 41.0
+        },
+        {
+          "label": "Autumn",
+          "probability": 32.0
+        },
+        {
+          "label": "Branch",
+          "probability": 26.0
+        },
+        {
+          "label": "Leaf",
+          "probability": 20.0
+        },
+        {
+          "label": "Cherry blossom",
+          "probability": 15.0
+        },
+        {
+          "label": "Sunlight",
+          "probability": 14.000000000000002
+        },
+        {
+          "label": "Person",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 49.916533333333334,
+      "endSecond": 51.017633333333336,
+      "startFrame": 1496.0,
+      "endFrame": 1529.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1529.jpg",
+      "taggingResult": [
+        {
+          "label": "Stadium",
+          "probability": 100.0
+        },
+        {
+          "label": "Sport venue",
+          "probability": 99.0
+        },
+        {
+          "label": "Arena",
+          "probability": 77.0
+        },
+        {
+          "label": "Architecture",
+          "probability": 44.0
+        },
+        {
+          "label": "Landmark",
+          "probability": 24.0
+        },
+        {
+          "label": "Night",
+          "probability": 4.0
+        },
+        {
+          "label": "Facade",
+          "probability": 2.0
+        },
+        {
+          "label": "Building",
+          "probability": 2.0
+        },
+        {
+          "label": "Theatre",
+          "probability": 2.0
+        },
+        {
+          "label": "Soccer-specific stadium",
+          "probability": 0.0
+        },
+        {
+          "label": "Transport",
+          "probability": 0.0
+        },
+        {
+          "label": "Arch",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 51.017633333333336,
+      "endSecond": 51.7517,
+      "startFrame": 1529.0,
+      "endFrame": 1551.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1551.jpg",
+      "taggingResult": [
+        {
+          "label": "Sports",
+          "probability": 100.0
+        },
+        {
+          "label": "Audience",
+          "probability": 35.0
+        },
+        {
+          "label": "Team",
+          "probability": 32.0
+        },
+        {
+          "label": "Crowd",
+          "probability": 18.0
+        },
+        {
+          "label": "Person",
+          "probability": 14.000000000000002
+        },
+        {
+          "label": "Basketball moves",
+          "probability": 11.0
+        },
+        {
+          "label": "Basketball",
+          "probability": 8.0
+        },
+        {
+          "label": "People",
+          "probability": 7.000000000000001
+        },
+        {
+          "label": "Clothing",
+          "probability": 5.0
+        },
+        {
+          "label": "Player",
+          "probability": 0.0
+        },
+        {
+          "label": "Youth",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 51.7517,
+      "endSecond": 52.8528,
+      "startFrame": 1551.0,
+      "endFrame": 1584.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1584.jpg",
+      "taggingResult": [
+        {
+          "label": "Landmark",
+          "probability": 100.0
+        },
+        {
+          "label": "Tower",
+          "probability": 82.0
+        },
+        {
+          "label": "Skyscraper",
+          "probability": 62.0
+        },
+        {
+          "label": "Tower block",
+          "probability": 33.0
+        },
+        {
+          "label": "Building",
+          "probability": 30.0
+        },
+        {
+          "label": "Downtown",
+          "probability": 22.0
+        },
+        {
+          "label": "Metropolis",
+          "probability": 16.0
+        },
+        {
+          "label": "Facade",
+          "probability": 9.0
+        },
+        {
+          "label": "City",
+          "probability": 6.0
+        },
+        {
+          "label": "Cityscape",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 52.8528,
+      "endSecond": 53.953900000000004,
+      "startFrame": 1584.0,
+      "endFrame": 1617.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1617.jpg",
+      "taggingResult": [
+        {
+          "label": "Tourism",
+          "probability": 100.0
+        },
+        {
+          "label": "Person",
+          "probability": 19.0
+        },
+        {
+          "label": "Vehicle",
+          "probability": 18.0
+        },
+        {
+          "label": "Crowd",
+          "probability": 14.000000000000002
+        },
+        {
+          "label": "Clothing",
+          "probability": 12.0
+        },
+        {
+          "label": "Man",
+          "probability": 10.0
+        },
+        {
+          "label": "Travel",
+          "probability": 10.0
+        },
+        {
+          "label": "People",
+          "probability": 9.0
+        },
+        {
+          "label": "Vacation",
+          "probability": 7.000000000000001
+        },
+        {
+          "label": "Transport",
+          "probability": 7.000000000000001
+        },
+        {
+          "label": "Monument",
+          "probability": 7.000000000000001
+        },
+        {
+          "label": "Footwear",
+          "probability": 4.0
+        },
+        {
+          "label": "Pedestrian",
+          "probability": 3.0
+        },
+        {
+          "label": "Plaza",
+          "probability": 3.0
+        },
+        {
+          "label": "Memorial",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 53.953900000000004,
+      "endSecond": 55.055,
+      "startFrame": 1617.0,
+      "endFrame": 1650.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1650.jpg",
+      "taggingResult": [
+        {
+          "label": "Flower",
+          "probability": 100.0
+        },
+        {
+          "label": "Garden",
+          "probability": 98.0
+        },
+        {
+          "label": "Park",
+          "probability": 63.0
+        },
+        {
+          "label": "Tree",
+          "probability": 55.00000000000001
+        },
+        {
+          "label": "Plant",
+          "probability": 48.0
+        },
+        {
+          "label": "Resort",
+          "probability": 18.0
+        },
+        {
+          "label": "Arecales",
+          "probability": 17.0
+        },
+        {
+          "label": "Amusement park",
+          "probability": 16.0
+        },
+        {
+          "label": "Backyard",
+          "probability": 7.000000000000001
+        },
+        {
+          "label": "Outdoor structure",
+          "probability": 5.0
+        },
+        {
+          "label": "Sculpture",
+          "probability": 4.0
+        },
+        {
+          "label": "Botanical garden",
+          "probability": 3.0
+        },
+        {
+          "label": "Yard",
+          "probability": 2.0
+        },
+        {
+          "label": "Jungle",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 55.055,
+      "endSecond": 56.523133333333334,
+      "startFrame": 1650.0,
+      "endFrame": 1694.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1694.jpg",
+      "taggingResult": [
+        {
+          "label": "Clothing",
+          "probability": 100.0
+        },
+        {
+          "label": "Woman",
+          "probability": 36.0
+        },
+        {
+          "label": "Spring",
+          "probability": 33.0
+        },
+        {
+          "label": "Dress",
+          "probability": 28.999999999999996
+        },
+        {
+          "label": "People",
+          "probability": 28.999999999999996
+        },
+        {
+          "label": "Fashion",
+          "probability": 22.0
+        },
+        {
+          "label": "Person",
+          "probability": 17.0
+        },
+        {
+          "label": "Art",
+          "probability": 14.000000000000002
+        },
+        {
+          "label": "Footwear",
+          "probability": 8.0
+        },
+        {
+          "label": "Girl",
+          "probability": 1.0
+        },
+        {
+          "label": "Man",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 56.523133333333334,
+      "endSecond": 57.624233333333336,
+      "startFrame": 1694.0,
+      "endFrame": 1727.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1727.jpg",
+      "taggingResult": [
+        {
+          "label": "Illustration",
+          "probability": 100.0
+        },
+        {
+          "label": "Reflection",
+          "probability": 63.0
+        },
+        {
+          "label": "Sky",
+          "probability": 47.0
+        },
+        {
+          "label": "Art",
+          "probability": 36.0
+        },
+        {
+          "label": "Light",
+          "probability": 33.0
+        },
+        {
+          "label": "Circle",
+          "probability": 17.0
+        },
+        {
+          "label": "Lighting",
+          "probability": 15.0
+        },
+        {
+          "label": "Poster",
+          "probability": 13.0
+        },
+        {
+          "label": "Sunlight",
+          "probability": 4.0
+        },
+        {
+          "label": "Yellow",
+          "probability": 1.0
+        },
+        {
+          "label": "Modern art",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 57.624233333333336,
+      "endSecond": 58.3583,
+      "startFrame": 1727.0,
+      "endFrame": 1749.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1749.jpg",
+      "taggingResult": [
+        {
+          "label": "Produce",
+          "probability": 100.0
+        },
+        {
+          "label": "Food",
+          "probability": 99.0
+        },
+        {
+          "label": "Plant",
+          "probability": 94.0
+        },
+        {
+          "label": "Fruit",
+          "probability": 85.0
+        },
+        {
+          "label": "Green",
+          "probability": 69.0
+        },
+        {
+          "label": "Flower",
+          "probability": 25.0
+        },
+        {
+          "label": "Yellow",
+          "probability": 23.0
+        },
+        {
+          "label": "Macro photography",
+          "probability": 5.0
+        },
+        {
+          "label": "Leaf",
+          "probability": 1.0
+        },
+        {
+          "label": "Close-up",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 58.3583,
+      "endSecond": 59.4594,
+      "startFrame": 1749.0,
+      "endFrame": 1782.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1782.jpg",
+      "taggingResult": [
+        {
+          "label": "Meal",
+          "probability": 100.0
+        },
+        {
+          "label": "Lunch",
+          "probability": 72.0
+        },
+        {
+          "label": "Cuisine",
+          "probability": 69.0
+        },
+        {
+          "label": "Breakfast",
+          "probability": 41.0
+        },
+        {
+          "label": "Food",
+          "probability": 41.0
+        },
+        {
+          "label": "Dinner",
+          "probability": 41.0
+        },
+        {
+          "label": "Dish",
+          "probability": 34.0
+        },
+        {
+          "label": "Restaurant",
+          "probability": 26.0
+        },
+        {
+          "label": "Supper",
+          "probability": 8.0
+        },
+        {
+          "label": "Brunch",
+          "probability": 3.0
+        },
+        {
+          "label": "People",
+          "probability": 2.0
+        },
+        {
+          "label": "Person",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 59.4594,
+      "endSecond": 60.193466666666666,
+      "startFrame": 1782.0,
+      "endFrame": 1804.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1804.jpg",
+      "taggingResult": [
+        {
+          "label": "Crowd",
+          "probability": 100.0
+        },
+        {
+          "label": "People",
+          "probability": 63.0
+        },
+        {
+          "label": "City",
+          "probability": 19.0
+        },
+        {
+          "label": "Market",
+          "probability": 17.0
+        },
+        {
+          "label": "Public space",
+          "probability": 14.000000000000002
+        },
+        {
+          "label": "Person",
+          "probability": 11.0
+        },
+        {
+          "label": "Festival",
+          "probability": 8.0
+        },
+        {
+          "label": "Demonstration",
+          "probability": 5.0
+        },
+        {
+          "label": "Man",
+          "probability": 2.0
+        },
+        {
+          "label": "Pedestrian",
+          "probability": 1.0
+        },
+        {
+          "label": "Woman",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 60.193466666666666,
+      "endSecond": 61.29456666666667,
+      "startFrame": 1804.0,
+      "endFrame": 1837.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1837.jpg",
+      "taggingResult": [
+        {
+          "label": "Vehicle",
+          "probability": 100.0
+        },
+        {
+          "label": "Waterway",
+          "probability": 71.0
+        },
+        {
+          "label": "Transport",
+          "probability": 40.0
+        },
+        {
+          "label": "Sea",
+          "probability": 32.0
+        },
+        {
+          "label": "Channel",
+          "probability": 28.999999999999996
+        },
+        {
+          "label": "Ship",
+          "probability": 20.0
+        },
+        {
+          "label": "Watercraft",
+          "probability": 18.0
+        },
+        {
+          "label": "Harbor",
+          "probability": 13.0
+        },
+        {
+          "label": "Boat",
+          "probability": 8.0
+        },
+        {
+          "label": "Ferry",
+          "probability": 1.0
+        },
+        {
+          "label": "River",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 61.29456666666667,
+      "endSecond": 62.02863333333333,
+      "startFrame": 1837.0,
+      "endFrame": 1859.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1859.jpg",
+      "taggingResult": [
+        {
+          "label": "Drink",
+          "probability": 100.0
+        },
+        {
+          "label": "Alcoholic beverage",
+          "probability": 95.0
+        },
+        {
+          "label": "Wine",
+          "probability": 35.0
+        },
+        {
+          "label": "Distilled beverage",
+          "probability": 28.999999999999996
+        },
+        {
+          "label": "Beer",
+          "probability": 13.0
+        },
+        {
+          "label": "Bottle",
+          "probability": 9.0
+        },
+        {
+          "label": "Meal",
+          "probability": 4.0
+        },
+        {
+          "label": "Restaurant",
+          "probability": 3.0
+        },
+        {
+          "label": "Liqueur",
+          "probability": 3.0
+        },
+        {
+          "label": "Glass",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 62.02863333333333,
+      "endSecond": 62.7627,
+      "startFrame": 1859.0,
+      "endFrame": 1881.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1881.jpg",
+      "taggingResult": [
+        {
+          "label": "Food",
+          "probability": 100.0
+        },
+        {
+          "label": "Drink",
+          "probability": 78.0
+        },
+        {
+          "label": "Dessert",
+          "probability": 66.0
+        },
+        {
+          "label": "Produce",
+          "probability": 47.0
+        },
+        {
+          "label": "Dish",
+          "probability": 30.0
+        },
+        {
+          "label": "Breakfast",
+          "probability": 28.999999999999996
+        },
+        {
+          "label": "Meal",
+          "probability": 18.0
+        },
+        {
+          "label": "Alcoholic beverage",
+          "probability": 13.0
+        },
+        {
+          "label": "Dairy",
+          "probability": 2.0
+        },
+        {
+          "label": "Cuisine",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 62.7627,
+      "endSecond": 63.496766666666666,
+      "startFrame": 1881.0,
+      "endFrame": 1903.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1903.jpg",
+      "taggingResult": [
+        {
+          "label": "Meal",
+          "probability": 100.0
+        },
+        {
+          "label": "Dinner",
+          "probability": 62.0
+        },
+        {
+          "label": "Restaurant",
+          "probability": 45.0
+        },
+        {
+          "label": "Ceremony",
+          "probability": 19.0
+        },
+        {
+          "label": "Bar",
+          "probability": 11.0
+        },
+        {
+          "label": "Party",
+          "probability": 11.0
+        },
+        {
+          "label": "Banquet",
+          "probability": 10.0
+        },
+        {
+          "label": "Wedding",
+          "probability": 9.0
+        },
+        {
+          "label": "Wedding reception",
+          "probability": 9.0
+        },
+        {
+          "label": "Lunch",
+          "probability": 5.0
+        },
+        {
+          "label": "Drink",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 63.496766666666666,
+      "endSecond": 64.23083333333334,
+      "startFrame": 1903.0,
+      "endFrame": 1925.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1925.jpg",
+      "taggingResult": [
+        {
+          "label": "Food",
+          "probability": 100.0
+        },
+        {
+          "label": "Dish",
+          "probability": 98.0
+        },
+        {
+          "label": "Cuisine",
+          "probability": 77.0
+        },
+        {
+          "label": "Meal",
+          "probability": 76.0
+        },
+        {
+          "label": "Produce",
+          "probability": 63.0
+        },
+        {
+          "label": "Vegetable",
+          "probability": 43.0
+        },
+        {
+          "label": "Lunch",
+          "probability": 24.0
+        },
+        {
+          "label": "Salad",
+          "probability": 8.0
+        },
+        {
+          "label": "Breakfast",
+          "probability": 6.0
+        },
+        {
+          "label": "Vegetarian food",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 64.23083333333334,
+      "endSecond": 66.066,
+      "startFrame": 1925.0,
+      "endFrame": 1980.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_1980.jpg",
+      "taggingResult": [
+        {
+          "label": "Sign",
+          "probability": 100.0
+        },
+        {
+          "label": "Signage",
+          "probability": 99.0
+        },
+        {
+          "label": "Advertising",
+          "probability": 95.0
+        },
+        {
+          "label": "Street sign",
+          "probability": 45.0
+        },
+        {
+          "label": "Tree",
+          "probability": 44.0
+        },
+        {
+          "label": "Traffic sign",
+          "probability": 25.0
+        },
+        {
+          "label": "Banner",
+          "probability": 25.0
+        },
+        {
+          "label": "Brand",
+          "probability": 17.0
+        },
+        {
+          "label": "Licence plate",
+          "probability": 9.0
+        },
+        {
+          "label": "Plant",
+          "probability": 8.0
+        },
+        {
+          "label": "Font",
+          "probability": 4.0
+        },
+        {
+          "label": "Poster",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 66.066,
+      "endSecond": 67.1671,
+      "startFrame": 1980.0,
+      "endFrame": 2013.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_2013.jpg",
+      "taggingResult": [
+        {
+          "label": "Font",
+          "probability": 100.0
+        },
+        {
+          "label": "Wood",
+          "probability": 91.0
+        },
+        {
+          "label": "Brand",
+          "probability": 68.0
+        },
+        {
+          "label": "Text",
+          "probability": 38.0
+        },
+        {
+          "label": "Sign",
+          "probability": 31.0
+        },
+        {
+          "label": "Number",
+          "probability": 28.000000000000004
+        },
+        {
+          "label": "Licence plate",
+          "probability": 23.0
+        },
+        {
+          "label": "Automotive exterior",
+          "probability": 22.0
+        },
+        {
+          "label": "Design",
+          "probability": 13.0
+        },
+        {
+          "label": "Advertising",
+          "probability": 10.0
+        },
+        {
+          "label": "Signage",
+          "probability": 10.0
+        },
+        {
+          "label": "Yellow",
+          "probability": 10.0
+        },
+        {
+          "label": "Label",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 67.1671,
+      "endSecond": 68.63523333333333,
+      "startFrame": 2013.0,
+      "endFrame": 2057.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_2057.jpg",
+      "taggingResult": [
+        {
+          "label": "Brand",
+          "probability": 100.0
+        },
+        {
+          "label": "Poster",
+          "probability": 89.0
+        },
+        {
+          "label": "Art",
+          "probability": 87.0
+        },
+        {
+          "label": "Screenshot",
+          "probability": 74.0
+        },
+        {
+          "label": "Iron",
+          "probability": 59.0
+        },
+        {
+          "label": "Lighting",
+          "probability": 47.0
+        },
+        {
+          "label": "Design",
+          "probability": 43.0
+        },
+        {
+          "label": "Musical instrument",
+          "probability": 38.0
+        },
+        {
+          "label": "Writing",
+          "probability": 30.0
+        },
+        {
+          "label": "Guitar",
+          "probability": 28.000000000000004
+        },
+        {
+          "label": "Text",
+          "probability": 26.0
+        },
+        {
+          "label": "Font",
+          "probability": 24.0
+        },
+        {
+          "label": "Advertising",
+          "probability": 22.0
+        },
+        {
+          "label": "Light",
+          "probability": 10.0
+        },
+        {
+          "label": "Green",
+          "probability": 3.0
+        },
+        {
+          "label": "Signage",
+          "probability": 2.0
+        },
+        {
+          "label": "Interior design",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 68.63523333333333,
+      "endSecond": 69.73633333333333,
+      "startFrame": 2057.0,
+      "endFrame": 2090.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_2090.jpg",
+      "taggingResult": [
+        {
+          "label": "Vehicle",
+          "probability": 100.0
+        },
+        {
+          "label": "Ship",
+          "probability": 90.0
+        },
+        {
+          "label": "Passenger ship",
+          "probability": 64.0
+        },
+        {
+          "label": "Watercraft",
+          "probability": 56.00000000000001
+        },
+        {
+          "label": "Ferry",
+          "probability": 45.0
+        },
+        {
+          "label": "Freight transport",
+          "probability": 33.0
+        },
+        {
+          "label": "Transport",
+          "probability": 32.0
+        },
+        {
+          "label": "Sea",
+          "probability": 12.0
+        },
+        {
+          "label": "Boat",
+          "probability": 5.0
+        },
+        {
+          "label": "Cargo ship",
+          "probability": 3.0
+        },
+        {
+          "label": "Cruise ship",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 69.73633333333333,
+      "endSecond": 70.4704,
+      "startFrame": 2090.0,
+      "endFrame": 2112.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_2112.jpg",
+      "taggingResult": [
+        {
+          "label": "Bike",
+          "probability": 100.0
+        },
+        {
+          "label": "Vehicle",
+          "probability": 83.0
+        },
+        {
+          "label": "Wheel",
+          "probability": 57.99999999999999
+        },
+        {
+          "label": "Road bicycle",
+          "probability": 56.00000000000001
+        },
+        {
+          "label": "Sports equipment",
+          "probability": 45.0
+        },
+        {
+          "label": "Mountain bike",
+          "probability": 44.0
+        },
+        {
+          "label": "Bicycle frame",
+          "probability": 25.0
+        },
+        {
+          "label": "Land vehicle",
+          "probability": 12.0
+        },
+        {
+          "label": "Racing bicycle",
+          "probability": 3.0
+        },
+        {
+          "label": "Cyclo-cross bicycle",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 70.4704,
+      "endSecond": 71.20446666666666,
+      "startFrame": 2112.0,
+      "endFrame": 2134.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_2134.jpg",
+      "taggingResult": [
+        {
+          "label": "Vehicle",
+          "probability": 100.0
+        },
+        {
+          "label": "Bike",
+          "probability": 93.0
+        },
+        {
+          "label": "Cycling",
+          "probability": 67.0
+        },
+        {
+          "label": "Motorcycle",
+          "probability": 28.999999999999996
+        },
+        {
+          "label": "Endurance sports",
+          "probability": 24.0
+        },
+        {
+          "label": "Sports equipment",
+          "probability": 11.0
+        },
+        {
+          "label": "Motorcycling",
+          "probability": 9.0
+        },
+        {
+          "label": "Land vehicle",
+          "probability": 7.000000000000001
+        },
+        {
+          "label": "Road cycling",
+          "probability": 4.0
+        },
+        {
+          "label": "Clothing",
+          "probability": 4.0
+        },
+        {
+          "label": "Sports",
+          "probability": 2.0
+        },
+        {
+          "label": "Cycle sport",
+          "probability": 1.0
+        },
+        {
+          "label": "Tourism",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 71.20446666666666,
+      "endSecond": 72.30556666666666,
+      "startFrame": 2134.0,
+      "endFrame": 2167.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_2167.jpg",
+      "taggingResult": [
+        {
+          "label": "Musician",
+          "probability": 100.0
+        },
+        {
+          "label": "Performance",
+          "probability": 94.0
+        },
+        {
+          "label": "Audience",
+          "probability": 75.0
+        },
+        {
+          "label": "Music",
+          "probability": 55.00000000000001
+        },
+        {
+          "label": "Concert",
+          "probability": 54.0
+        },
+        {
+          "label": "Stage",
+          "probability": 25.0
+        },
+        {
+          "label": "Entertainment",
+          "probability": 15.0
+        },
+        {
+          "label": "Crowd",
+          "probability": 12.0
+        },
+        {
+          "label": "Performing arts",
+          "probability": 2.0
+        },
+        {
+          "label": "Musical theatre",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 72.30556666666666,
+      "endSecond": 73.03963333333334,
+      "startFrame": 2167.0,
+      "endFrame": 2189.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_2189.jpg",
+      "taggingResult": [
+        {
+          "label": "Advertising",
+          "probability": 100.0
+        },
+        {
+          "label": "Signage",
+          "probability": 97.0
+        },
+        {
+          "label": "Darkness",
+          "probability": 66.0
+        },
+        {
+          "label": "Font",
+          "probability": 57.99999999999999
+        },
+        {
+          "label": "Brand",
+          "probability": 45.0
+        },
+        {
+          "label": "Light",
+          "probability": 36.0
+        },
+        {
+          "label": "Text",
+          "probability": 35.0
+        },
+        {
+          "label": "Display device",
+          "probability": 30.0
+        },
+        {
+          "label": "Sign",
+          "probability": 30.0
+        },
+        {
+          "label": "Black",
+          "probability": 28.999999999999996
+        },
+        {
+          "label": "Banner",
+          "probability": 18.0
+        },
+        {
+          "label": "Screenshot",
+          "probability": 16.0
+        },
+        {
+          "label": "Number",
+          "probability": 15.0
+        },
+        {
+          "label": "Poster",
+          "probability": 13.0
+        },
+        {
+          "label": "Lighting",
+          "probability": 10.0
+        },
+        {
+          "label": "Logo",
+          "probability": 5.0
+        },
+        {
+          "label": "Neon sign",
+          "probability": 1.0
+        },
+        {
+          "label": "Restaurant",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 73.03963333333334,
+      "endSecond": 75.24183333333333,
+      "startFrame": 2189.0,
+      "endFrame": 2255.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_2255.jpg",
+      "taggingResult": [
+        {
+          "label": "Fireworks",
+          "probability": 100.0
+        },
+        {
+          "label": "Outdoor recreation",
+          "probability": 84.0
+        },
+        {
+          "label": "Event",
+          "probability": 83.0
+        },
+        {
+          "label": "Recreation",
+          "probability": 80.0
+        },
+        {
+          "label": "Night",
+          "probability": 17.0
+        },
+        {
+          "label": "Light",
+          "probability": 8.0
+        },
+        {
+          "label": "Sparkler",
+          "probability": 5.0
+        },
+        {
+          "label": "Darkness",
+          "probability": 3.0
+        },
+        {
+          "label": "Illustration",
+          "probability": 1.0
+        },
+        {
+          "label": "Midnight",
+          "probability": 1.0
+        },
+        {
+          "label": "New year's eve",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 75.24183333333333,
+      "endSecond": 77.077,
+      "startFrame": 2255.0,
+      "endFrame": 2310.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_2310.jpg",
+      "taggingResult": [
+        {
+          "label": "Crowd",
+          "probability": 100.0
+        },
+        {
+          "label": "Audience",
+          "probability": 64.0
+        },
+        {
+          "label": "People",
+          "probability": 52.0
+        },
+        {
+          "label": "Person",
+          "probability": 28.999999999999996
+        },
+        {
+          "label": "Performance",
+          "probability": 19.0
+        },
+        {
+          "label": "Music",
+          "probability": 14.000000000000002
+        },
+        {
+          "label": "Man",
+          "probability": 10.0
+        },
+        {
+          "label": "Musician",
+          "probability": 10.0
+        },
+        {
+          "label": "Nightclub",
+          "probability": 7.000000000000001
+        },
+        {
+          "label": "Face",
+          "probability": 1.0
+        },
+        {
+          "label": "Clothing",
+          "probability": 0.0
+        },
+        {
+          "label": "Interaction",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 77.077,
+      "endSecond": 78.54513333333334,
+      "startFrame": 2310.0,
+      "endFrame": 2354.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_2354.jpg",
+      "taggingResult": [
+        {
+          "label": "City",
+          "probability": 100.0
+        },
+        {
+          "label": "Skyline",
+          "probability": 75.0
+        },
+        {
+          "label": "Skyscraper",
+          "probability": 55.00000000000001
+        },
+        {
+          "label": "Landmark",
+          "probability": 54.0
+        },
+        {
+          "label": "Cityscape",
+          "probability": 35.0
+        },
+        {
+          "label": "Downtown",
+          "probability": 24.0
+        },
+        {
+          "label": "Urban area",
+          "probability": 23.0
+        },
+        {
+          "label": "Reflection",
+          "probability": 9.0
+        },
+        {
+          "label": "Metropolis",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 78.54513333333334,
+      "endSecond": 80.3803,
+      "startFrame": 2354.0,
+      "endFrame": 2409.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_2409.jpg",
+      "taggingResult": [
+        {
+          "label": "Ceremony",
+          "probability": 100.0
+        },
+        {
+          "label": "Building",
+          "probability": 55.00000000000001
+        },
+        {
+          "label": "Tourist attraction",
+          "probability": 45.0
+        },
+        {
+          "label": "Wedding",
+          "probability": 37.0
+        },
+        {
+          "label": "Meal",
+          "probability": 18.0
+        },
+        {
+          "label": "Place of worship",
+          "probability": 17.0
+        },
+        {
+          "label": "Person",
+          "probability": 15.0
+        },
+        {
+          "label": "Woman",
+          "probability": 4.0
+        },
+        {
+          "label": "Palace",
+          "probability": 4.0
+        },
+        {
+          "label": "Interior design",
+          "probability": 3.0
+        },
+        {
+          "label": "Man",
+          "probability": 2.0
+        },
+        {
+          "label": "Clothing",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 80.3803,
+      "endSecond": 81.48140000000001,
+      "startFrame": 2409.0,
+      "endFrame": 2442.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_2442.jpg",
+      "taggingResult": [
+        {
+          "label": "Clothing",
+          "probability": 100.0
+        },
+        {
+          "label": "Art",
+          "probability": 52.0
+        },
+        {
+          "label": "Interior design",
+          "probability": 47.0
+        },
+        {
+          "label": "Dress",
+          "probability": 43.0
+        },
+        {
+          "label": "Fashion",
+          "probability": 28.000000000000004
+        },
+        {
+          "label": "Costume",
+          "probability": 27.0
+        },
+        {
+          "label": "Room",
+          "probability": 27.0
+        },
+        {
+          "label": "Design",
+          "probability": 20.0
+        },
+        {
+          "label": "Person",
+          "probability": 13.0
+        },
+        {
+          "label": "Red",
+          "probability": 11.0
+        },
+        {
+          "label": "Adult",
+          "probability": 10.0
+        },
+        {
+          "label": "Outerwear",
+          "probability": 7.000000000000001
+        },
+        {
+          "label": "Woman",
+          "probability": 4.0
+        },
+        {
+          "label": "Tourist attraction",
+          "probability": 3.0
+        },
+        {
+          "label": "Textile",
+          "probability": 2.0
+        },
+        {
+          "label": "Hair",
+          "probability": 2.0
+        },
+        {
+          "label": "Art exhibition",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 81.48140000000001,
+      "endSecond": 82.21546666666667,
+      "startFrame": 2442.0,
+      "endFrame": 2464.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_2464.jpg",
+      "taggingResult": [
+        {
+          "label": "Facial hair",
+          "probability": 100.0
+        },
+        {
+          "label": "Clothing",
+          "probability": 100.0
+        },
+        {
+          "label": "Hair",
+          "probability": 55.00000000000001
+        },
+        {
+          "label": "Beard",
+          "probability": 24.0
+        },
+        {
+          "label": "Person",
+          "probability": 23.0
+        },
+        {
+          "label": "Hairstyle",
+          "probability": 21.0
+        },
+        {
+          "label": "Black",
+          "probability": 16.0
+        },
+        {
+          "label": "Glasses",
+          "probability": 12.0
+        },
+        {
+          "label": "Man",
+          "probability": 11.0
+        },
+        {
+          "label": "T-shirt",
+          "probability": 8.0
+        },
+        {
+          "label": "Red",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 82.21546666666667,
+      "endSecond": 83.31656666666667,
+      "startFrame": 2464.0,
+      "endFrame": 2497.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_2497.jpg",
+      "taggingResult": [
+        {
+          "label": "Person",
+          "probability": 100.0
+        },
+        {
+          "label": "Clothing",
+          "probability": 53.0
+        },
+        {
+          "label": "Brand",
+          "probability": 47.0
+        },
+        {
+          "label": "Glasses",
+          "probability": 28.000000000000004
+        },
+        {
+          "label": "Presentation",
+          "probability": 18.0
+        },
+        {
+          "label": "Gadget",
+          "probability": 17.0
+        },
+        {
+          "label": "Writing",
+          "probability": 15.0
+        },
+        {
+          "label": "Screenshot",
+          "probability": 12.0
+        },
+        {
+          "label": "Woman",
+          "probability": 9.0
+        },
+        {
+          "label": "Face",
+          "probability": 8.0
+        },
+        {
+          "label": "Learning",
+          "probability": 7.000000000000001
+        },
+        {
+          "label": "Adult",
+          "probability": 6.0
+        },
+        {
+          "label": "Man",
+          "probability": 2.0
+        },
+        {
+          "label": "Costume",
+          "probability": 1.0
+        },
+        {
+          "label": "Child",
+          "probability": 0.0
+        },
+        {
+          "label": "Girl",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 83.31656666666667,
+      "endSecond": 86.25283333333333,
+      "startFrame": 2497.0,
+      "endFrame": 2585.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_2585.jpg",
+      "taggingResult": [
+        {
+          "label": "Person",
+          "probability": 100.0
+        },
+        {
+          "label": "Meal",
+          "probability": 51.0
+        },
+        {
+          "label": "Clothing",
+          "probability": 36.0
+        },
+        {
+          "label": "Hair",
+          "probability": 24.0
+        },
+        {
+          "label": "Food",
+          "probability": 21.0
+        },
+        {
+          "label": "Hairstyle",
+          "probability": 13.0
+        },
+        {
+          "label": "Girl",
+          "probability": 8.0
+        },
+        {
+          "label": "Woman",
+          "probability": 6.0
+        },
+        {
+          "label": "Face",
+          "probability": 6.0
+        },
+        {
+          "label": "Man",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 86.25283333333333,
+      "endSecond": 86.9869,
+      "startFrame": 2585.0,
+      "endFrame": 2607.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_2607.jpg",
+      "taggingResult": [
+        {
+          "label": "Person",
+          "probability": 100.0
+        },
+        {
+          "label": "Hair",
+          "probability": 60.0
+        },
+        {
+          "label": "Face",
+          "probability": 38.0
+        },
+        {
+          "label": "Hairstyle",
+          "probability": 36.0
+        },
+        {
+          "label": "Adult",
+          "probability": 15.0
+        },
+        {
+          "label": "Hand",
+          "probability": 13.0
+        },
+        {
+          "label": "Head",
+          "probability": 11.0
+        },
+        {
+          "label": "Nose",
+          "probability": 5.0
+        },
+        {
+          "label": "Blond",
+          "probability": 5.0
+        },
+        {
+          "label": "Woman",
+          "probability": 2.0
+        },
+        {
+          "label": "Clothing",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 86.9869,
+      "endSecond": 89.1891,
+      "startFrame": 2607.0,
+      "endFrame": 2673.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_2673.jpg",
+      "taggingResult": [
+        {
+          "label": "Clothing",
+          "probability": 100.0
+        },
+        {
+          "label": "Person",
+          "probability": 73.0
+        },
+        {
+          "label": "Costume",
+          "probability": 42.0
+        },
+        {
+          "label": "Retail",
+          "probability": 30.0
+        },
+        {
+          "label": "Man",
+          "probability": 16.0
+        },
+        {
+          "label": "Market",
+          "probability": 15.0
+        },
+        {
+          "label": "Hair",
+          "probability": 10.0
+        },
+        {
+          "label": "Woman",
+          "probability": 10.0
+        },
+        {
+          "label": "Face",
+          "probability": 9.0
+        },
+        {
+          "label": "Spring",
+          "probability": 7.000000000000001
+        },
+        {
+          "label": "Fashion",
+          "probability": 6.0
+        },
+        {
+          "label": "Red",
+          "probability": 1.0
+        },
+        {
+          "label": "Footwear",
+          "probability": 1.0
+        },
+        {
+          "label": "Convention",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 89.1891,
+      "endSecond": 103.03626666666666,
+      "startFrame": 2673.0,
+      "endFrame": 3088.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-06de81e7-ea41-4731-8d56-f9e9de669c15_3036.jpg",
+      "taggingResult": [
+        {
+          "label": "Font",
+          "probability": 100.0
+        },
+        {
+          "label": "Night",
+          "probability": 92.0
+        },
+        {
+          "label": "Text",
+          "probability": 89.0
+        },
+        {
+          "label": "Darkness",
+          "probability": 74.0
+        },
+        {
+          "label": "Light",
+          "probability": 73.0
+        },
+        {
+          "label": "Brand",
+          "probability": 63.0
+        },
+        {
+          "label": "Logo",
+          "probability": 60.0
+        },
+        {
+          "label": "Evening",
+          "probability": 44.0
+        },
+        {
+          "label": "Reflection",
+          "probability": 40.0
+        },
+        {
+          "label": "Lighting",
+          "probability": 35.0
+        },
+        {
+          "label": "Screenshot",
+          "probability": 19.0
+        },
+        {
+          "label": "Dusk",
+          "probability": 18.0
+        },
+        {
+          "label": "Poster",
+          "probability": 8.0
+        },
+        {
+          "label": "Illustration",
+          "probability": 7.000000000000001
+        },
+        {
+          "label": "Line",
+          "probability": 4.0
+        },
+        {
+          "label": "Number",
+          "probability": 4.0
+        },
+        {
+          "label": "Advertising",
+          "probability": 1.0
+        },
+        {
+          "label": "Presentation",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "fps": 29.97002997002997,
+  "duration": 10.01,
+  "isDone": true,
+  "framesCount": 300,
+  "errors": [],
+  "videoResults": [
+    {
+      "startSecond": 0.0,
+      "endSecond": 10.01,
+      "startFrame": 0.0,
+      "endFrame": 300.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-eaab71a1-d717-4442-830c-8701eca59160_253.jpg",
+      "taggingResult": [
+        {
+          "label": "Sports",
+          "probability": 100.0
+        },
+        {
+          "label": "Sport venue",
+          "probability": 70.0
+        },
+        {
+          "label": "Soccer",
+          "probability": 67.0
+        },
+        {
+          "label": "Gridiron football",
+          "probability": 66.0
+        },
+        {
+          "label": "Stadium",
+          "probability": 63.0
+        },
+        {
+          "label": "American football",
+          "probability": 57.99999999999999
+        },
+        {
+          "label": "Tackle",
+          "probability": 56.00000000000001
+        },
+        {
+          "label": "Player",
+          "probability": 52.0
+        },
+        {
+          "label": "Football player",
+          "probability": 40.0
+        },
+        {
+          "label": "Ball game",
+          "probability": 39.0
+        },
+        {
+          "label": "Team sport",
+          "probability": 23.0
+        },
+        {
+          "label": "Person",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    }
+  ]
+}

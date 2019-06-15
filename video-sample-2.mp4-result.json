@@ -1,0 +1,432 @@
+{
+  "fps": 29.97002997002997,
+  "duration": 29.362666666666666,
+  "isDone": true,
+  "framesCount": 880,
+  "errors": [],
+  "videoResults": [
+    {
+      "startSecond": 0.0,
+      "endSecond": 6.973633333333334,
+      "startFrame": 0.0,
+      "endFrame": 209.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-912ea035-fe9b-4fa2-ba67-9e249916b598_209.jpg",
+      "taggingResult": [
+        {
+          "label": "Snow",
+          "probability": 100.0
+        },
+        {
+          "label": "Winter",
+          "probability": 95.0
+        },
+        {
+          "label": "Natural environment",
+          "probability": 57.99999999999999
+        },
+        {
+          "label": "Morning",
+          "probability": 34.0
+        },
+        {
+          "label": "Mountain",
+          "probability": 32.0
+        },
+        {
+          "label": "Landscape",
+          "probability": 15.0
+        },
+        {
+          "label": "Horizon",
+          "probability": 11.0
+        },
+        {
+          "label": "Reflection",
+          "probability": 10.0
+        },
+        {
+          "label": "Sunrise",
+          "probability": 10.0
+        },
+        {
+          "label": "Dawn",
+          "probability": 7.000000000000001
+        },
+        {
+          "label": "Arctic",
+          "probability": 0.0
+        },
+        {
+          "label": "Ice",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 6.973633333333334,
+      "endSecond": 8.8088,
+      "startFrame": 209.0,
+      "endFrame": 264.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-912ea035-fe9b-4fa2-ba67-9e249916b598_264.jpg",
+      "taggingResult": [
+        {
+          "label": "Rural area",
+          "probability": 100.0
+        },
+        {
+          "label": "Agriculture",
+          "probability": 95.0
+        },
+        {
+          "label": "Grass",
+          "probability": 87.0
+        },
+        {
+          "label": "Field",
+          "probability": 78.0
+        },
+        {
+          "label": "Flower",
+          "probability": 67.0
+        },
+        {
+          "label": "Vehicle",
+          "probability": 34.0
+        },
+        {
+          "label": "Farm",
+          "probability": 17.0
+        },
+        {
+          "label": "Tree",
+          "probability": 14.000000000000002
+        },
+        {
+          "label": "Green",
+          "probability": 10.0
+        },
+        {
+          "label": "Soil",
+          "probability": 7.000000000000001
+        },
+        {
+          "label": "Plant",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 8.8088,
+      "endSecond": 11.011000000000001,
+      "startFrame": 264.0,
+      "endFrame": 330.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-912ea035-fe9b-4fa2-ba67-9e249916b598_330.jpg",
+      "taggingResult": [
+        {
+          "label": "Grass",
+          "probability": 100.0
+        },
+        {
+          "label": "Agriculture",
+          "probability": 73.0
+        },
+        {
+          "label": "Field",
+          "probability": 65.0
+        },
+        {
+          "label": "Soil",
+          "probability": 39.0
+        },
+        {
+          "label": "Crop",
+          "probability": 32.0
+        },
+        {
+          "label": "Green",
+          "probability": 28.000000000000004
+        },
+        {
+          "label": "Plant",
+          "probability": 22.0
+        },
+        {
+          "label": "Grassland",
+          "probability": 20.0
+        },
+        {
+          "label": "Prairie",
+          "probability": 16.0
+        },
+        {
+          "label": "Flower",
+          "probability": 11.0
+        },
+        {
+          "label": "Leaf",
+          "probability": 0.0
+        },
+        {
+          "label": "Meadow",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 11.011000000000001,
+      "endSecond": 17.250566666666668,
+      "startFrame": 330.0,
+      "endFrame": 517.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-912ea035-fe9b-4fa2-ba67-9e249916b598_517.jpg",
+      "taggingResult": [
+        {
+          "label": "Vehicle",
+          "probability": 100.0
+        },
+        {
+          "label": "Race track",
+          "probability": 46.0
+        },
+        {
+          "label": "Car",
+          "probability": 43.0
+        },
+        {
+          "label": "Motorcycle",
+          "probability": 36.0
+        },
+        {
+          "label": "Racing",
+          "probability": 36.0
+        },
+        {
+          "label": "Motorcycling",
+          "probability": 26.0
+        },
+        {
+          "label": "Asphalt",
+          "probability": 24.0
+        },
+        {
+          "label": "Race",
+          "probability": 14.000000000000002
+        },
+        {
+          "label": "Sports",
+          "probability": 11.0
+        },
+        {
+          "label": "Sport venue",
+          "probability": 9.0
+        },
+        {
+          "label": "Land vehicle",
+          "probability": 6.0
+        },
+        {
+          "label": "Person",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 17.250566666666668,
+      "endSecond": 23.1231,
+      "startFrame": 517.0,
+      "endFrame": 693.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-912ea035-fe9b-4fa2-ba67-9e249916b598_693.jpg",
+      "taggingResult": [
+        {
+          "label": "City",
+          "probability": 100.0
+        },
+        {
+          "label": "Walkway",
+          "probability": 99.0
+        },
+        {
+          "label": "Cityscape",
+          "probability": 42.0
+        },
+        {
+          "label": "Downtown",
+          "probability": 42.0
+        },
+        {
+          "label": "Urban area",
+          "probability": 40.0
+        },
+        {
+          "label": "Transport",
+          "probability": 32.0
+        },
+        {
+          "label": "Skyline",
+          "probability": 30.0
+        },
+        {
+          "label": "Metropolitan area",
+          "probability": 13.0
+        },
+        {
+          "label": "Boardwalk",
+          "probability": 12.0
+        },
+        {
+          "label": "Skyscraper",
+          "probability": 9.0
+        },
+        {
+          "label": "Pedestrian",
+          "probability": 8.0
+        },
+        {
+          "label": "Tourism",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 23.1231,
+      "endSecond": 25.692333333333334,
+      "startFrame": 693.0,
+      "endFrame": 770.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-912ea035-fe9b-4fa2-ba67-9e249916b598_770.jpg",
+      "taggingResult": [
+        {
+          "label": "Sports",
+          "probability": 100.0
+        },
+        {
+          "label": "Wind wave",
+          "probability": 56.00000000000001
+        },
+        {
+          "label": "Sea",
+          "probability": 41.0
+        },
+        {
+          "label": "Water sport",
+          "probability": 36.0
+        },
+        {
+          "label": "Ocean",
+          "probability": 36.0
+        },
+        {
+          "label": "Beach",
+          "probability": 33.0
+        },
+        {
+          "label": "Wave",
+          "probability": 22.0
+        },
+        {
+          "label": "Surfing",
+          "probability": 15.0
+        },
+        {
+          "label": "Boardsport",
+          "probability": 6.0
+        },
+        {
+          "label": "Wind",
+          "probability": 5.0
+        },
+        {
+          "label": "Surfing Equipment",
+          "probability": 5.0
+        },
+        {
+          "label": "Extreme sport",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    },
+    {
+      "startSecond": 25.692333333333334,
+      "endSecond": 29.362666666666666,
+      "startFrame": 770.0,
+      "endFrame": 880.0,
+      "thumbnailPath": "https://dev-api.sensifai.com/uploads/tagging_frames/video-912ea035-fe9b-4fa2-ba67-9e249916b598_858.jpg",
+      "taggingResult": [
+        {
+          "label": "Sports",
+          "probability": 100.0
+        },
+        {
+          "label": "Water sport",
+          "probability": 64.0
+        },
+        {
+          "label": "Extreme sport",
+          "probability": 55.00000000000001
+        },
+        {
+          "label": "Boardsport",
+          "probability": 49.0
+        },
+        {
+          "label": "Surfing",
+          "probability": 37.0
+        },
+        {
+          "label": "Surface water sports",
+          "probability": 33.0
+        },
+        {
+          "label": "Windsports",
+          "probability": 33.0
+        },
+        {
+          "label": "Wind wave",
+          "probability": 23.0
+        },
+        {
+          "label": "Surfing Equipment",
+          "probability": 21.0
+        },
+        {
+          "label": "Surfboard",
+          "probability": 21.0
+        },
+        {
+          "label": "Toy",
+          "probability": 18.0
+        },
+        {
+          "label": "Sailing",
+          "probability": 0.0
+        }
+      ],
+      "actionResult": null,
+      "celebrityResult": null,
+      "sportResult": null,
+      "nsfwResult": null
+    }
+  ]
+}
